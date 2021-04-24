@@ -84,7 +84,7 @@ public class TestBase {
 		if (browser.equalsIgnoreCase("Chrome")) {
 
 			System.setProperty("webdriver.chrome.driver",
-					"D:\\Sandy Data\\Browser_s EXE\\ChromeDriver\\chromedriver.exe");
+					"D:\\Sandy Data\\Browser_s EXE\\ChromeDriver\\chromversion_90\\chromedriver.exe");
 			driver = new ChromeDriver();
 			
 
